@@ -36,3 +36,54 @@
     transform: rotate(360deg);
   }
 }
+
+.navbar
+{
+  background-color: black !important;
+}
+.nav-link, .navbar-brand{
+  color: azure !important; 
+}
+body{
+  background-image: linear-gradient(120deg,  #05bcc5 0%, #93e9ec 100%);
+  
+}
+.App{
+  display:flex !important;
+  flex-direction: column !important;
+  min-height: 100% !important;
+}
+footer{
+  background-color: black !important;
+  top: 0 !important;
+}
+.nav-item a, #copy {
+  color: white !important;
+}
+.img-fluid{
+  height: 200px !important;
+}
+h1{
+  font-size: 18px !important;
+}
+td{
+  background-color: aquamarine;
+}
+
+.form-control{
+  margin-top: 10px;
+  border-color: black;
+}
+.btn-success{
+  margin-top: 10pt;
+  float:left;
+}
+.App{
+  min-height: 100vh !important;
+}
+footer p{
+  color: white;
+}
+footer{
+  margin-top: auto !important;
+}
